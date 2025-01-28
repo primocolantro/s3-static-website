@@ -20,7 +20,7 @@ This project demonstrates how to host a static website on AWS S3 and distribute 
 
 ## Screenshots
 ### S3 Configuration
-![S3 Screenshot](screenshots/s3-config.jpg)
+![S3 Screenshot](screenshots/s3-config.jpg)(cloudfront-config2.JPG)(cloudfront-config3.JPG)
 
 ### CloudFront Configuration
 ![CloudFront Screenshot](screenshots/cloudfront-config.jpg)
