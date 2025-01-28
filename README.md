@@ -20,13 +20,13 @@ This project demonstrates how to host a static website on AWS S3 and distribute 
 
 ## Screenshots
 ### S3 Configuration
-![S3 Screenshot](screenshots/s3-config.png)
+![S3 Screenshot](screenshots/s3-config.jpg)
 
 ### CloudFront Configuration
-![CloudFront Screenshot](screenshots/cloudfront-config.png)
+![CloudFront Screenshot](screenshots/cloudfront-config.jpg)
 
 ### Live Website
-![Website Screenshot](screenshots/website-live.png)
+![Website Screenshot](screenshots/website-live.jpg)
 
 ## Live Website URL
 - **CloudFront Domain Name:** [https://d1dg9053ocm0ie.cloudfront.net/]
